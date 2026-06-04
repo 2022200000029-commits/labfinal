@@ -57,3 +57,18 @@ main {
 .delete-btn:hover {
     background-color: darkred;
 }
+
+
+.mask-btn {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.mask-btn:hover {
+    background-color: darkorange;
+}
